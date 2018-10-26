@@ -1,6 +1,8 @@
 ### CNK-Floating-Button
 An animated button component built with React.
 
+[![npm version](https://badge.fury.io/js/cnk-floating-button.svg)](https://www.npmjs.com/package/cnk-floating-button)
+
 ![cnk-floating-button](https://raw.githubusercontent.com/ceyhunkeklik/cnk-floating-button/master/examples/cnk-floating-button.gif)
 
 ### Installation
