@@ -1,6 +1,6 @@
 {
   "name": "cnk-floating-button",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An animated button component for React.",
   "main": "dist/index.js",
   "scripts": {
